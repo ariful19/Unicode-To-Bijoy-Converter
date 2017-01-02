@@ -1,0 +1,5 @@
+e:\mydocuments\visual studio 2015\Projects\UnicodeAsciiConverter\UnicodeAsciiConverter\bin\Debug\UnicodeAsciiConverter.dll
+e:\mydocuments\visual studio 2015\Projects\UnicodeAsciiConverter\UnicodeAsciiConverter\bin\Debug\UnicodeAsciiConverter.pdb
+e:\mydocuments\visual studio 2015\Projects\UnicodeAsciiConverter\UnicodeAsciiConverter\obj\Debug\UnicodeAsciiConverter.dll
+e:\mydocuments\visual studio 2015\Projects\UnicodeAsciiConverter\UnicodeAsciiConverter\obj\Debug\UnicodeAsciiConverter.pdb
+e:\mydocuments\visual studio 2015\Projects\UnicodeAsciiConverter\UnicodeAsciiConverter\bin\Debug\dic.txt
